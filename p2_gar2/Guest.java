@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package p2_gar_rehab_1808142;
+package p2_gar;
 
 /**
  *
